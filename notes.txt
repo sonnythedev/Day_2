@@ -1,0 +1,28 @@
+We will explore various data types in javascript
+
+JavaScript has the following datatypes. These are built in 
+the javascript engine and supports natively.
+
+1. string
+2. number
+3. boolean
+4. array
+5. object
+6. null
+7. undefined
+
+
+We can use the 'typeof' operator to check what data type certain valuable is
+
+
+Javascript has different types of number classifications:
+
+integer,
+float,
+NaN
+isNan() function
+Javascript has a math object which has a lot of important math related functions.
+
+Such as:
+
+math.max(),math.min(), math.round(), math.ceil(), math.floor(),math.rand() and much more
