@@ -1,28 +1,33 @@
-We will explore various data types in javascript
+Go over the exercies first
+Review from Day1
+Demo the math functionalities: math.max(),math.min(), math.round(), math.ceil(), math.floor(),math.rand() and much more
 
-JavaScript has the following datatypes. These are built in 
-the javascript engine and supports natively.
+Move on to more array functions continuation: forEach, map, filter, reduce, some, every etc. (look at array_problems_continuation file) 
 
-1. string
-2. number
-3. boolean
-4. array
-5. object
-6. null
-7. undefined
+Move to various logical operations:
+
+multiple if
+if, if else, else
+switch / case
+explain return statements
+
+move on to function:
+
+function has name, parameters(optional), return type(optional)
+a function can also have another function call(it's called call back function)
+
+Go in details with call back function, explain with 
+sort, map, filter, reduce
+
+setTimeout, setInterval, clearInterval
+
+xhr, also have call back function
 
 
-We can use the 'typeof' operator to check what data type certain valuable is
 
 
-Javascript has different types of number classifications:
 
-integer,
-float,
-NaN
-isNan() function
-Javascript has a math object which has a lot of important math related functions.
 
-Such as:
 
-math.max(),math.min(), math.round(), math.ceil(), math.floor(),math.rand() and much more
+
+
